@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DannyZee35/fyp/static/css/main.fccb9671.css",
+    "main.js": "/DannyZee35/fyp/static/js/main.45c12128.js",
+    "static/media/company.svg": "/DannyZee35/fyp/static/media/company.f94070645ce000e7f1cf60ca87114e99.svg",
+    "static/media/logo.svg": "/DannyZee35/fyp/static/media/logo.e8180adbb5a850c7dfd6ba918fa80325.svg",
+    "static/media/users.svg": "/DannyZee35/fyp/static/media/users.7ce8963dcc4ddd2b0c38a9e2b5813218.svg",
+    "static/media/earnings.svg": "/DannyZee35/fyp/static/media/earnings.3557ca7219b415ae232bb433e3f3043a.svg",
+    "static/media/cancel.svg": "/DannyZee35/fyp/static/media/cancel.1c5a0f891a3bae0e9766be76c63837e7.svg",
+    "static/media/services.svg": "/DannyZee35/fyp/static/media/services.5f0ea1ec007ebcc0db3dc065058e6b19.svg",
+    "static/media/login.svg": "/DannyZee35/fyp/static/media/login.6218af51d6ada43e681f2a9eb0af1924.svg",
+    "static/media/join.svg": "/DannyZee35/fyp/static/media/join.d286807b3d9fe656ab80ea65dee2f5ee.svg",
+    "static/media/complete.svg": "/DannyZee35/fyp/static/media/complete.7271ad02a050a0e2a49cfda10097194e.svg",
+    "index.html": "/DannyZee35/fyp/index.html",
+    "main.fccb9671.css.map": "/DannyZee35/fyp/static/css/main.fccb9671.css.map",
+    "main.45c12128.js.map": "/DannyZee35/fyp/static/js/main.45c12128.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fccb9671.css",
+    "static/js/main.45c12128.js"
+  ]
+}
